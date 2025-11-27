@@ -1,0 +1,30 @@
+{
+    "patients": {
+        "104": {
+            "name": "Kunal",
+            "age": 19,
+            "patient_id": "104",
+            "disease": "Fever",
+            "status": "Discharged"
+        },
+        "1876": {
+            "name": "Rajesh",
+            "age": 25,
+            "patient_id": "1876",
+            "disease": "Malaria",
+            "status": "Discharged"
+        }
+    },
+    "doctors": {
+        "12": {
+            "name": "DR.Kunal Lohia",
+            "specialization": "MBB",
+            "doctor_id": "12"
+        },
+        "A01": {
+            "name": "DR.DHRUV",
+            "specialization": "MBBS MD",
+            "doctor_id": "A01"
+        }
+    }
+}
