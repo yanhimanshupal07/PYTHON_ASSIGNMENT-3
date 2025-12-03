@@ -1,6 +1,6 @@
 # -------------------------------------------------------------
 # Hospital Patient Management System
-# Author: Kunal Lohia
+# Author: Himanshu Pal
 # Course: Problem Solving with Python (Unit-3)
 # -------------------------------------------------------------
 
