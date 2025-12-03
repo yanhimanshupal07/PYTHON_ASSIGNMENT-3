@@ -1,7 +1,7 @@
 {
     "patients": {
         "104": {
-            "name": "Kunal",
+            "name": "Himanshu",
             "age": 19,
             "patient_id": "104",
             "disease": "Fever",
@@ -17,7 +17,7 @@
     },
     "doctors": {
         "12": {
-            "name": "DR.Kunal Lohia",
+            "name": "DR.Himanshu",
             "specialization": "MBB",
             "doctor_id": "12"
         },
